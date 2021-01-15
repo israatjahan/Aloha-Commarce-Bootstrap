@@ -1,0 +1,15 @@
+.shoes-card{
+    border:0;
+
+}
+.shoes-card-footer{
+    background-color: white;
+    border:0;
+}
+.catagories img{
+    width: 100px;
+}
+    .aloha-slide .carousel-item{
+        background-color:rgb(243, 221, 243) ;
+        border-radius: 1.5em;
+    }
